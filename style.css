@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(to right, #ffafbd, #ffc3a0);
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+
+.card {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  max-width: 400px;
+  margin: auto;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+img {
+  width: 100%;
+  border-radius: 15px;
+  margin: 15px 0;
+}
+
+button {
+  background: #ff4d6d;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #e63950;
+}
