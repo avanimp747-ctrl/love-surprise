@@ -1,7 +1,3 @@
-function showLove() {
-  document.getElementById("surprise").innerHTML =
-  function startSurprise() {
-  document.getElementById("message").classList.add("show");
 
   for (let i = 0; i < 20; i++) {
     createHeart();
